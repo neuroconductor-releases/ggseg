@@ -14,3 +14,6 @@ img
 logo.png
 ^_pkgdown\.yml$
 ^doc$
+^DESCRIPTION\.bak$
+^\./\.travis\.yml\.bak$
+^\./appveyor\.yml\.bak$
